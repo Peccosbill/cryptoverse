@@ -1,3 +1,14 @@
+# Cryptoverse
+
+![image](https://user-images.githubusercontent.com/91910994/166110577-81a81c8c-fc56-4de8-88b1-78b67ab4d61c.png)
+
+## Crypto value statistics 
+![image](https://user-images.githubusercontent.com/91910994/166110649-cacd42af-2ddc-48d4-a7be-2d6745a1490b.png)
+
+## News
+![image](https://user-images.githubusercontent.com/91910994/166110662-e1bd2ef5-e871-4180-a998-2ffbe5cb0c81.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
